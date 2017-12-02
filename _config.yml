@@ -20,7 +20,7 @@ production_url : https://liruoteng.github.io/liruoteng
 # Tell Github to use the kramdown markdown interpreter
 # (see https://help.github.com/articles/migrating-your-pages-site-from-maruku)
 markdown: kramdown
-
+theme: merlot
 # All Jekyll-Bootstrap specific configurations are namespaced into this hash
 #
 JB :
@@ -70,7 +70,7 @@ JB :
   tags_path : nil
   atom_path : nil
   rss_path : nil
-  theme: jekyll-theme-merlot
+
   
   # Settings for comments helper
   # Set 'provider' to the comment provider you want to use.
