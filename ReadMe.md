@@ -22,7 +22,7 @@
 
 
 ## Academic Service
-
+- Area Chair: NeurIPS 2026
 - Conference Reviewer: CVPR, ICCV, ECCV, WACV, AAAI, 
 - Journal Reviewer: International Journal of Computer Vision (IJCV), T-PAMI
 
